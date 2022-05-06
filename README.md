@@ -1,4 +1,4 @@
-# 2062 Aliens Defender
+# 2.0.6.2 Aliens Defender
 
 La tecnología humana ha avanzado a pasos de gigante, y esto ha provocado que la raza humana construyera satélites de hondas expansivas de señales, llamados los Rippe62, estos satélites envían hondas de señal al azar al espacio, las cuales intentan hallar vida extraterrestre más allá de sus horizontes, después de más 10 años de la creación de los satélites (2040), las hondas han rebotado en un planeta llamado Yllarm, el cual ha sido afectado enormemente por meteoros gigantes, que ha arrasado  gran parte de la población extraterrestre, este planeta está habitado por criaturas extrañas, aliens sangrientos que solo se enfocan en destruir todo a su paso, y buscando un nuevo planeta donde habitar, envían sus naves rastreando la señal de la onda recibida por sus satélites.
 
