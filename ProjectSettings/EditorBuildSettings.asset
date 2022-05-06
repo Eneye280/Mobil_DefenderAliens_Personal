@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Aliens Defender/Scenes/SceneMenu.unity
+    guid: c02bda07b7c38e846a8b0a7678c179f1
+  - enabled: 1
+    path: Assets/Aliens Defender/Scenes/SceneSettings.unity
+    guid: bd6c6a387eb291e40a2b76498b5f5a69
+  - enabled: 1
+    path: Assets/Aliens Defender/Scenes/SceneAudio.unity
+    guid: a6af7dc9efa5cbd409acfb28bc5c7e9d
+  - enabled: 1
+    path: Assets/Aliens Defender/Scenes/SceneUI.unity
+    guid: aca5fa1c648b4494b9cf74f332f234cc
+  - enabled: 1
     path: Assets/Aliens Defender/Scenes/SceneGamePlay.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Aliens Defender/Scenes/SceneEnviroment.unity
+    guid: 035815c35b309fd479f5a0073ee9cbc6
   m_configObjects: {}
