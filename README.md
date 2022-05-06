@@ -8,7 +8,7 @@ Cuando los Ylar (habitantes del planeta Yllarm), empiezan a invadir la tierra, s
 
 Objetivo: Proteger las últimas toneladas de Europio y disprosio, mientras se investigan sistemas avanzados para utilizarlos en contra de los Ylar, contaremos con un general, que no podemos permitir que muera, y debemos acabar con algunos asentamientos enemigos, mientras protegemos el nuestro, contaremos con el sistema militar y algunos civiles que repararan los daños causados por los Ylar, y también debemos buscar recursos para mejorar nuestra base.
 
-Videojuego inspirado en las películas
+## Videojuego inspirado en las películas
 
-La gran muralla
-Battlefield 2042
+* La gran muralla
+* Battlefield 2042
