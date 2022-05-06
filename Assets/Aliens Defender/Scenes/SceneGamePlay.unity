@@ -190,7 +190,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: f2dc10398b794a34e861bc872ee88674, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -456,7 +456,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: f2dc10398b794a34e861bc872ee88674, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -831,7 +831,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: f2dc10398b794a34e861bc872ee88674, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -937,7 +937,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eda3a617869dfe2488cbd380902dac60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxSpawnEnemies: 10
+  maxSpawnEnemies: 50
   prefabEnemies: {fileID: 7346725860671723015, guid: d4908712cdc7dc54b81c2211704204cc,
     type: 3}
   positionSpwan:

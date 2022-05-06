@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6454615861889676625}
   - component: {fileID: 8143968248631259470}
   - component: {fileID: 1129170489633702648}
+  - component: {fileID: 397379343863577154}
   m_Layer: 0
   m_Name: Enemie
   m_TagString: Untagged
@@ -134,4 +135,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   navMeshAgent: {fileID: 8143968248631259470}
-  target: {fileID: 0}
+--- !u!114 &397379343863577154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7346725860671723015}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 165d9c491e2e632419c1e9d6ba12dce4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  meshRenderer: {fileID: 2948391923098235743}
+  materialEnemie:
+  - {fileID: 2100000, guid: f2dc10398b794a34e861bc872ee88674, type: 2}
+  - {fileID: 2100000, guid: 52f9978e4d21b534aba4f7cacdc58c30, type: 2}
+  - {fileID: 2100000, guid: 18e535ca437ffc54b96424ff0f50e0d8, type: 2}
+  - {fileID: 2100000, guid: 181b040efb0e2a543a47b6ab14cec8e1, type: 2}
+  - {fileID: 2100000, guid: 284a34564f5f6ac428a79f1f0df6baa5, type: 2}
